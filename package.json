@@ -6,10 +6,9 @@
   "scripts": {
         "start": "node server.js"
 },
-
 "engines": {
         "node": "8.9.3"
-}
+},
   "author": "Joshua Greeff",
   "license": "ISC",
   "dependencies": {
